@@ -2,6 +2,7 @@
 body {
     font-family: 'Roboto', sans-serif;
     background-color: #f4f4f4;
+    padding-top: 70px; /* Ajusta el valor según la altura de tu barra de navegación */
 }
 
 /* Navbar */
