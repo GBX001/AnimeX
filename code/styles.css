@@ -1,0 +1,55 @@
+/* Estilos generales */
+body {
+    font-family: 'Roboto', sans-serif;
+    background-color: #f4f4f4;
+}
+
+/* Navbar */
+.navbar {
+    background-color: #ff6600 !important;
+}
+
+.navbar-brand {
+    font-size: 1.8rem;
+}
+
+.nav-link {
+    font-size: 1.2rem;
+}
+
+/* Carrusel */
+#dragonBallCarousel {
+    max-width: 900px;
+    margin: auto;
+}
+
+.carousel-inner img {
+    height: 500px;
+    width: 100%;
+    object-fit: contain;
+    border-radius: 10px;
+}
+
+.carousel-caption {
+    background-color: rgba(0, 0, 0, 0.6);
+    border-radius: 5px;
+    padding: 10px;
+}
+
+/* Galería */
+.card-img-top {
+    height: 200px;
+    object-fit: cover;
+    border-radius: 10px;
+}
+
+.card-body {
+    text-align: center;
+}
+
+/* Pie de página */
+footer {
+    background-color: #222;
+    padding: 15px;
+    margin-top: 40px;
+}
